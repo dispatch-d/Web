@@ -1,0 +1,23 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Maker from "../components/Maker.astro";
+import "../styles/global.css";
+---
+
+<Layout title="The people whom make Dispatch-d.">
+	<main>
+		<h1>The people whom make <a href="../" class="text-gradient">Dispatch-d</a></h1>
+		<p class="instructions">
+			Who makes this?
+		</p>
+				<ul role="list" class="link-card-grid">
+			<Maker
+      username="uimaxbai"
+      role="Doing backend and whitepaper things"
+      description="Web developer (HTML, JS, CSS) who likes to do a bit of PHP and Python (and maybe C if I can be bothered)."
+      github="https://github.com/uimaxbai"
+      picture="https://github.com/uimaxbai.png"
+			/>
+		</ul>
+	</main>
+</Layout>
