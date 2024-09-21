@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Raleway:wght@100..900&display=swap");
 
 :root {
-    --accent: 64, 130, 109;
-    --accent-light: 143, 255, 219;
-    --accent-dark: 0, 112, 77;
+    --accent: 255, 106, 0;
+    --accent-light: 255,210,178;
+    --accent-dark: 76, 31, 0;
     --accent-gradient: linear-gradient(45deg,
             rgb(var(--accent)),
             rgb(var(--accent-light)) 30%,
