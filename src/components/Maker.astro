@@ -11,8 +11,8 @@ const { username, role, description, github, picture } = Astro.props;
 ---
 
 <li class="maker-card">
-  <a href="{github}"
-    <img src="{picture}" alt={username} />
+  <a href={github}>
+    <img src={picture} alt={username} />
     <h2>
       {username}
     </h2>
