@@ -115,7 +115,6 @@ h1 {
 
 .link-card>a {
     width: 100%;
-    height: 100%;
     text-decoration: none;
     line-height: 1.4;
     padding: calc(1.5rem - 1px);
