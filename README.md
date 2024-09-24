@@ -1,5 +1,5 @@
 # Web
-The website
+The website (Also on https://dispatch-d.pages.dev/)
 ## Look at https://barba.js.org/docs/getstarted/install/
 
 ## Proposed Profile Picture Styles
